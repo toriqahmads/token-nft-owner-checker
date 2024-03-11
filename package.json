@@ -27,6 +27,10 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/toriqahmads/token-nft-owner-checker.git"
+  },
   "devDependencies": {
     "@types/jest": "^28.1.2",
     "@types/node": "^20.11.25",
